@@ -48,6 +48,8 @@ https://user-images.githubusercontent.com/28951144/180613641-baf7a246-08ba-496f-
 - .LRC file compatibility (mannual loading or automatic lookup in folder).
 - Fallback cover support. e.g. `cover.jpg`, `Folder.jpg` etc.
 - Built-in YouTube Music client.
+- User specific libmpv flags & options.
+- Window position & maximize state remembering.
 
 ## Why
 
@@ -79,22 +81,7 @@ If you enjoy using this music player, please consider buying me a coffee.
 
 ## Planned Features
 
-- Folders view.
-- Material You / Material Design 3 implementation.
-- Genre tab.
-- Third-party themes support.
-- Equalizer.
-- Music sensitive visualizers.
-- macOS version (adaptation & dependencies-configuration).
-- Mini-window mode.
-- Minimization to system tray.
-- Last.fm scrobbling.
-- Plugin API.
-- Windows 11 IExplorerCommand integration.
-- Video playback & library management (???)
-- Publishing to FlatHub, Microsoft Store & other places.
-- Desktop app controller for Android.
-- Cross-platform syncing & mutual playlist with friends (once we are mature).
+May be found at: [What's next for Harmonoid? & Release Goals](https://github.com/harmonoid/harmonoid/issues/348).
 
 ## Mobile
 
